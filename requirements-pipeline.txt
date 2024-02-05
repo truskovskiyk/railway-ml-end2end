@@ -1,0 +1,11 @@
+datasets==2.16.1
+surrealdb==0.3.2
+pandas==1.5.3
+argilla==1.22.0
+diskcache==5.6.3
+openai==1.10.0
+ipython==8.20.0
+dagster==1.6.3
+dagster-webserver==1.6.3
+mlflow==2.10.0
+pydantic-settings==2.0.3
